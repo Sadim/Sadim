@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sadim
 - 👀 I’m interested in alternative internet mesh network
-- 🌱 I’m currently learning business development
-- 💞️ I’m looking to collaborate on Netsukuku
+- 🌱 I'm a believer in self sovereignty
+- 💞️ I’m looking to collaborate on Privacy inclined projects
 - 📫 How to reach me email
 
 <!---
